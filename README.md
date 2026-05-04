@@ -59,19 +59,6 @@ The project explores and compares different machine learning models:
 
 ---
 
-## Methodology
-
-The project follows a standard machine learning workflow:
-
-1. Load handwriting image samples
-2. Preprocess the images
-3. Extract handwriting-related features
-4. Train classification models
-5. Evaluate model performance
-6. Compare results across different approaches
-
----
-
 ## How to Run the Project
 
 ### 1. Clone the repository
@@ -109,25 +96,8 @@ The project compares different machine learning models for handwriting-based per
 
 ---
 
-## Future Improvements
-
-Possible improvements include:
-
-- Adding a larger and more balanced handwriting dataset
-- Improving image preprocessing and feature extraction
-- Adding more detailed model evaluation metrics
-- Testing additional deep learning architectures
-- Creating a clearer pipeline for training and prediction
-- Adding a `requirements.txt` file
-
----
-
 ## Important Note
 
 This project is intended for educational and research purposes. Personality prediction from handwriting is not scientifically reliable enough for sensitive or real-world decision-making and should be interpreted with caution.
 
 ---
-
-## Author
-
-Developed by [anaparovic](https://github.com/anaparovic).
